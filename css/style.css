@@ -1,7 +1,8 @@
 body{
   align-items: center;
   margin: auto;
-  background: url(css/background.jpg)
+  background: url(css/background.jpg);
+  font-weight: 350;
 }
 
 .title{
@@ -17,4 +18,6 @@ body{
 	text-align: center;
 	justify-content: center;
     align-items: center;
+	font-size: 28pt;
+	
 }
