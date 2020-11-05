@@ -1,7 +1,7 @@
 body{
   align-items: center;
   margin: auto;
-  background: url(css/background.jpg);
+  background-image: url("css/background.jpg");
   font-weight: 500;
 }
 
@@ -10,7 +10,7 @@ body{
 	text-align: center;
 	justify-content: center;
     align-items: center;
-	font-size: 80pt;
+	font-size: 50pt;
 }
 
 .tablehead{
@@ -19,6 +19,6 @@ body{
 	text-align: center;
 	justify-content: center;
     align-items: center;
-	font-size: 65pt;
+	font-size: 35pt;
 	
 }
