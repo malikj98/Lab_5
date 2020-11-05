@@ -1,12 +1,18 @@
-/* All Pages */
-#main-header{
-	float: left;
-	margin-top: 45px;
-	font-family: serif;
-	font-size: 36px;
-	color: #fff;
-}
-
 body{
   background: url(css/background.jpg)
+}
+
+.title{
+	color: black;
+	text-align: center;
+	justify-content: center;
+    align-items: center;
+}
+
+.tablehead{
+	background-color: #D3D3D3;
+	color: black;
+	text-align: center;
+	justify-content: center;
+    align-items: center;
 }
