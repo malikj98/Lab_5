@@ -1,4 +1,6 @@
 body{
+  align-items: center;
+  margin: auto;
   background: url(css/background.jpg)
 }
 
