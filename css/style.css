@@ -1,0 +1,12 @@
+/* All Pages */
+#main-header{
+	float: left;
+	margin-top: 45px;
+	font-family: serif;
+	font-size: 36px;
+	color: #fff;
+}
+
+body{
+  background: url(css/background.jpg)
+}
