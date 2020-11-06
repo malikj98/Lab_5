@@ -10,6 +10,12 @@ body{
   background-image: url("../media/background.jpg");
 }
 
+.pname{
+	font-size: 18pt;
+	padding: 2px;
+	text-align: center;
+}
+
 .pagetitle{
 	color:green;
 	text-align:center;
