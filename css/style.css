@@ -25,7 +25,6 @@ body{
 }
 
 .tablehead{
-	opacity: 0.5;
 	background-color: #D3D3D3;
 	color: black;
 	text-align: center;
@@ -74,4 +73,9 @@ table {
   border-radius: 12px;
   background: #D3D3D3;
 }
+
+div.background {
+	opacity: 0.5;
+}
+
 
