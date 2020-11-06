@@ -1,3 +1,9 @@
+html {
+  font-size: 12px;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  line-height: 1;
+}
 body{
   align-items:center;
   margin:auto;
@@ -21,8 +27,42 @@ body{
     align-items: center;
 	font-size: 24pt;	
 }
+
 img {
   align-self: center;
   max-width: 100%;
   height: 300px;
   border-radius: 12%;
+}
+
+tbody, td{
+  border-radius: 12px;
+  border-style: inset;
+  border-color: #78c8e7;
+  padding: 2px;
+  width: auto;
+  height: auto;
+  font-size: 20pt;
+}
+
+thead, th {
+  border-radius: 12px;
+  background-color: #D3D3D3;
+  border-style: ridge;
+  font-size: 20pt;
+  padding: 2px;
+  width: 200px;
+}
+
+table {
+  position: relative;
+  align-items: center;
+  align-content: center;
+  margin: auto;
+  border-style: ridge;
+  font-size: 20pt;
+  padding: 2px;
+  border-radius: 12px;
+  background: #D3D3D3;
+}
+
