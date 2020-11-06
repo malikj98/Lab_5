@@ -8,11 +8,10 @@ body{
   align-items:center;
   margin:auto;
   background-image: url("../media/background.jpg");
-  font-weight:500;
 }
 
 .pagetitle{
-	color:black;
+	color:green;
 	text-align:center;
 	justify-content:center;
     align-items:center;
@@ -25,7 +24,7 @@ body{
 	text-align: center;
 	justify-content: center;
     align-items: center;
-	font-size: 24pt;	
+	font-size: 20pt;	
 }
 
 img {
@@ -42,14 +41,14 @@ tbody, td{
   padding: 2px;
   width: auto;
   height: auto;
-  font-size: 20pt;
+  font-size: 18pt;
 }
 
 thead, th {
   border-radius: 12px;
   background-color: #D3D3D3;
   border-style: ridge;
-  font-size: 20pt;
+  font-size: 18pt;
   padding: 2px;
   width: 200px;
 }
