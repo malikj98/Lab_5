@@ -41,7 +41,7 @@ img {
 }
 
 tbody, td{
-  opacity: 0.5;
+  opacity: 0.8;
   border-radius: 12px;
   border-style: inset;
   border-color: #78c8e7;
@@ -52,7 +52,7 @@ tbody, td{
 }
 
 thead, th {
-  opacity: 0.5;
+  opacity: 0.8;
   border-radius: 12px;
   background-color: #D3D3D3;
   border-style: ridge;
@@ -62,7 +62,7 @@ thead, th {
 }
 
 table {
-  opacity: 0.5;
+  opacity: 0.8;
   position: relative;
   align-items: center;
   align-content: center;
