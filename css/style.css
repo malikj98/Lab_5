@@ -1,16 +1,16 @@
 body{
-  align-items: center;
-  margin: auto;
-  background-image: url("css/background.jpg");
-  font-weight: 500;
+  align-items:center;
+  margin:auto;
+  background-image:url("/media/background.jpg");
+  font-weight:500;
 }
 
 .pagetitle{
-	color: black;
-	text-align: center;
-	justify-content: center;
-    align-items: center;
-	font-size: 35pt;
+	color:black;
+	text-align:center;
+	justify-content:center;
+    align-items:center;
+	font-size:35pt;
 }
 
 .tablehead{
